@@ -1,5 +1,5 @@
 # Run-Analysis
-This rep is for Coursera, Getting and Cleaning Data, final project Run Analysis
+This repository is for Coursera, Getting and Cleaning Data, final project Run Analysis
 
 ## Introduction to the Project
 
@@ -11,7 +11,7 @@ The R script run_analysis.R is created for data analysis and clearning for the p
 
 The README.md gives the brief introduction about the implementation in run_analysis.R.
 
-The CookBook.md describes the defined variables, data, and related transformations.
+The CookBook.md describes the variables, data, and related transformations.
 
 ## Details in run_analysis.R
 
